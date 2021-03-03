@@ -11,7 +11,7 @@ const baseConfig = () => ({
     filename: 'scripts_bundle.js',
   },
   devServer: {
-    historyApiFallback: true;
+    historyApiFallback: true,
   },
   module: {
     rules: [
